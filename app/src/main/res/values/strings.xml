@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loja de Calcados Avenida</string>
+    <string name="pesquisa_de_mercado_loja_avenida">Pesquisa de Mercado - Loja Avenida</string>
+    <string name="marcas_de_sua_prefer_ncia">Marcas de sua Preferência:</string>
+    <string name="olimpikus">Olimpikus</string>
+    <string name="adidas">Adidas</string>
+    <string name="nike">Nike</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpar">Limpar</string>
+</resources>
